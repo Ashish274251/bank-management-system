@@ -20,4 +20,4 @@ A C++ project simulating a basic banking system with account creation, deposit/w
 3. Run using `./bank`
 
 ## 🧑‍💻 Author
-Created by Ashish Kumar
+Created by Ashish Ranjan
